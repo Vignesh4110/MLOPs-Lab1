@@ -32,4 +32,4 @@ model = train_model(X_train, y_train)
 
 ## CI/CD
 
-GitHub Actions runs pytest and unittest on push/PR to main.
+GitHub Actions runs pytest and unittest on push/PR to main. 

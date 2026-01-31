@@ -26,4 +26,4 @@ jobs:
 
       - name: Run pytest
         run: |
-          pytest tests/test_pytest.py -v
+          pytest tests/pytest.py -v
